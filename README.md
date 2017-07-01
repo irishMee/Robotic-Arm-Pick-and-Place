@@ -1,2 +1,5 @@
 # Robotic-Arm-Pick-and-Place
-Project 2 of Robotics ND
+## Forward Kinematics Analysis
+
+1. Here is an image from my notebook of the Kuka-arm with reference frames.
+![alt text] 
