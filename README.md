@@ -80,4 +80,4 @@
         T0_G = simplify(T0_6 * T6_G) # base_link to link_G(which is the gripper)
      ```
  6. The final homogeneous matrix prints in an element list to look like the following.
-    ![alt text](
+    ![alt text](https://github.com/irishMee/Robotic-Arm-Pick-and-Place/blob/master/Final_homogeneous_matrix.jpg)
